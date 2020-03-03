@@ -4,6 +4,12 @@ Job titles can be ambiguous sometimes. For a person, a recuirter can be called a
 I built a model to normalize job titles to automate this process so for "talent acquisition", "hiring manager" or "recruiting manager", the model will return "recruiter" for all.
 
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/goal.png)
+
+Model pipline 1
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/pipeline1.png)
+
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/pipeline2.png)
+
+
+Result
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/result.png)
