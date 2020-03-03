@@ -5,11 +5,16 @@ I built a model to normalize job titles to automate this process so for "talent 
 
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/goal.png)
 
-Model pipline 1
+
+
+## Model Pipeline 1
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/pipeline1.png)
 
+
+## Model Pipeline 2
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/pipeline2.png)
 
 
-Result
+
+
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/result.png)
