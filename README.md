@@ -16,5 +16,5 @@ I built a model to normalize job titles to automate this process so for "talent 
 
 
 
-
+## Result
 ![Goal](https://github.com/bbchen33/Insight-project/blob/master/result.png)
